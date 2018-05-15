@@ -70,12 +70,10 @@
   <ItemGroup>
     <Compile Include="aritmetica.vb" />
     <Compile Include="concatenacion.vb" />
-    <Compile Include="ejer1_5.vb" />
     <Compile Include="ejercicio01_06.vb" />
     <Compile Include="ejercicio01_07.vb" />
     <Compile Include="ejercicio01_09.vb" />
     <Compile Include="ejercicio01_10.vb" />
-    <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
